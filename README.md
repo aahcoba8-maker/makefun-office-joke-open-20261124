@@ -8,7 +8,7 @@
 
 > I automated my weekly status update so well my manager promoted the script and forgot I exist.
 
-One line, 99 characters. Run it:
+One line, 94 characters. Run it:
 
 ```
 python3 main.py
